@@ -3,7 +3,7 @@
 Este projeto foi desenvolvido como parte da disciplina **Business Intelligence** do curso de **Sistemas de Informação – 7NA | Noite**. O objetivo foi analisar dados de vendas com foco em métricas estratégicas, utilizando **Microsoft Excel** como plataforma de análise.
 
 ## 👨‍💻 Autor
-- **Jonas Ferreira da Silva** – RA: 01063866  
+- **Jonas Ferreira da Silva** – Matricula: 01063866  
 - ✉️ jonas.fsilva1@hotmail.com  
 - 🔗 [GitHub](https://github.com/jonasferreira-silva1)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jonas-silva-699538230/)
